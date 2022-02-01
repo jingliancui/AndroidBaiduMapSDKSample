@@ -3,6 +3,8 @@ Sample for showing baidu map sdk features on Xamarin.Forms.
 
 Tutorial:
 
+https://mp.weixin.qq.com/s/RMFbCG2ldJ5U-05u1lS8gA
+
 QQ Group:
 
 521288080
